@@ -1,0 +1,17 @@
+using System;
+
+class Programa
+{
+	static void Main(string[] args)
+	{
+		Console.WriteLine("Olá, Mundo!");
+
+		Console.WriteLine("\nDigite abaixo o seu nome: ");
+		var nome = Console.ReadLine();
+		Console.Clear();
+		
+		Console.WriteLine("\nSeja bem-vindo, " +  nome);
+		
+	}
+}
+
