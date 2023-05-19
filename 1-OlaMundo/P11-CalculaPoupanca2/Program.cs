@@ -5,7 +5,6 @@
         Console.WriteLine("Projeto 11 - Calcula poupança, parte 2\n");
 
         double investimento = 1000;
-        //int mes = 12;
 
         for (int mes = 1; mes <= 12; mes++)
         {

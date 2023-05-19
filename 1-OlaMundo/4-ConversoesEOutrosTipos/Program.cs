@@ -4,15 +4,12 @@
     {
         Console.WriteLine("Projeto 4 - Conversões e outros tipos\n");
 
-        float pontoFlutuante = 3.14f;
-
         double salario = 3000.15;
         Console.WriteLine(salario);
 
         int salarioInteiro = (int)salario;
         Console.WriteLine(salarioInteiro);
 
-        //long é um tipo de variável de 64 bits.
         long x = 2000000000000000000;
         Console.WriteLine(x);
 
